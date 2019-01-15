@@ -1,7 +1,7 @@
 # Using Google Protocol Buffers for High Speed REST (V2)
 
-Revised and updated Josh Longs original [Spring Boot Google Protocol Buffers](https://github.com/joshlong/spring-and-google-protocol-buffers) example project 
-with Spring Boot 1.4.3.RELEASE an integrated protobuf-compiler maven setup.
+[Spring Boot Google Protocol Buffers] example project 
+with Spring Boot 2.1.1.RELEASE an integrated protobuf-compiler maven setup.
 
 The compilation of the protocol buffers specifications will be performed
 during the maven build.
